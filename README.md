@@ -24,6 +24,9 @@ We mapped the design space before committing.
 
 **Level 4 — Enterprise orchestration & governance.** Rigid orchestration, mandatory citation tracing back to transcript timestamps, strict PII sanitization, and forced alignment to dynamic Q3 OKRs. **This is what we shipped.**
 
+<img width="2160" height="2700" alt="image" src="https://github.com/user-attachments/assets/df900487-051e-48c3-9886-677b709b77a4" />
+
+
 ## The stack
 
 **Orchestration: n8n.** Open-source, self-hostable, built for developers. Handles the asynchronous batch processing a dozen debating agents require. Visual drag-and-drop tools become debugging nightmares in production — n8n stays auditable.
